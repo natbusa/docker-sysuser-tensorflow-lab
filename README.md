@@ -8,7 +8,7 @@ It is a small extension on the jupyterhub/systemuser, setting the necessary para
 For more info on how to combine JupyterHub running jupyter lab docker images, read https://github.com/natbusa/docker-sysuser-scipy-lab
 
 ## use this image
-This image has been uploaded on docker hub as [natbusa/sysuser-tensorflow-lab]()
+This image has been uploaded on docker hub as [natbusa/sysuser-tensorflow-lab](https://hub.docker.com/r/natbusa/sysuser-tensorflow-lab/)
 
 ## build your own image
 
