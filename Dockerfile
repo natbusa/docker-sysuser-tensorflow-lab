@@ -1,7 +1,7 @@
-# Build as natbusa/sysuser-scipy-lab
+# Build as natbusa/sysuser-tensorflow-lab
 # Run with the DockerSpawner in JupyterHub
 
-FROM jupyter/datascience-notebook
+FROM jupyter/tensorflow-notebook
 
 MAINTAINER Natalino Busa <natalino.busa@gmail.com>
 
