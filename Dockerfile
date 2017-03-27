@@ -1,4 +1,4 @@
-# Build as natbusa/sysuser-tensorflow-lab
+# Build as natbusa/jupyterhub-tensorflow-lab
 # Run with the DockerSpawner in JupyterHub
 
 FROM jupyter/tensorflow-notebook
